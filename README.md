@@ -56,6 +56,6 @@ index 90ce443..6d5eb6a 100644
 
 There is a cleaner proposal in...
 
-https://github.com/snowpackjs/snowpack/compare/main...N8-B:import-resolve-absolute-path-and-nested-dirs
+https://github.com/snowpackjs/snowpack/compare/main...N8-B:improve-json-import-spec-resolution
 
 And that's about it.
