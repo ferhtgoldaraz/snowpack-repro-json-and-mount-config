@@ -1,0 +1,1 @@
+console.log('tsup from whatever.js');
